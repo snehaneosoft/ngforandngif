@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Assignment19_4Demo';
+  salary = [2000,3000,5000,6000,8000]
 }
+
